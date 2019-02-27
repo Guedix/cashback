@@ -1,0 +1,18 @@
+h1, h2 {
+  text-align: center;
+  margin-top: 5px;
+  color: black; }
+
+hr {
+  width: 1005px;
+  height: 1px;
+  background-color: #b3f3b3; }
+
+.icon {
+  margin: 20px; }
+
+.topico p {
+  text-align: center;
+  font-size: 20px; }
+
+/*# sourceMappingURL=topico.css.map */
