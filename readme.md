@@ -1,1 +1,1 @@
-Site de acompanhantes
+Site de direcionamento para afialiação
