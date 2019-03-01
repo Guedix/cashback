@@ -4,12 +4,12 @@
 html {
     width: 100%;
     height: 100%;
-    background-image: url("/acompanhantes/imagens/cashback.png");
+    background-image: url("/cashback/imagens/cashback.png");
     background-position: center;
 }
 
 #header{
-    background-image: url("/acompanhantes/imagens/cashback.png");
+    background-image: url("/cashback/imagens/cashback.png");
     background-position: center;
     
     #navigation {
@@ -22,7 +22,7 @@ html {
             .navbar-brand{
                 font-size: 2em;
                 font-weight: bold;
-                color: #fffdfd;
+                color: #ffffff;
             }
         }
     }
@@ -36,7 +36,7 @@ html {
         margin-top: 80px;
         ul li a{
             margin-top: 20px;
-            color: rgb(0, 0, 0);
+            color: rgb(252, 4, 4);
             font-weight: bold;
             text-transform: uppercase;
 
@@ -49,9 +49,9 @@ html {
     }
 }
 
-.money {
-    color: rgb(161, 9, 9);
-    font-weight: 100;
-    font-size: 2em;
-    margin-top: 100px;
+.head {
+    margin-top: 200px;
+    h2 {
+        color: rgb(255, 255, 255);
+    }
 }
